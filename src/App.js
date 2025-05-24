@@ -32,8 +32,8 @@ function App() {
 
   const paragraphStyle = {
     fontSize: '1.2rem',
-  };
-
+  };  
+  
   return (
     <div style={containerStyle}>
       <div style={cardStyle}>
