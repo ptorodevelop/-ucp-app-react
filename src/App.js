@@ -37,7 +37,7 @@ function App() {
   return (
     <div style={containerStyle}>
       <div style={cardStyle}>
-        <h1 style={titleStyle}>🎓 ¡Universidad Católica de Pereira 3!</h1>
+        <h1 style={titleStyle}>🎓 ¡Universidad Católica de Pereira !</h1>
         <p style={paragraphStyle}>
           📋 Listado de integrantes - Proceso de Desarrollo de Software I
         </p>
