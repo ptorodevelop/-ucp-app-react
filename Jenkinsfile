@@ -8,7 +8,7 @@ pipeline {
  stage('Checkout') {
  steps {
  git branch: 'main', url:
-'https://github.com/amartinezh/ucp-app-react.git'
+'https://github.com/ptorodevelop/-ucp-app-react.git'
  }
  }
  // Etapa 2: Instalar dependencias y build del proyecto
